@@ -15,3 +15,6 @@ Agenda:
 6) Random Forest
 7) Random Forest with PCA
 8) Conclusion
+
+
+Check the PCD document.
